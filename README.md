@@ -15,7 +15,7 @@ Extractive models:
 In this notebook, I built extractive models, Baselines, TFIDF , Count Vectorization , Text rank model.
 
 Abstractive model building:
-In this notebook, I built seq2seq models based on LSTM layers. 
+In this notebook, I built seq2seq models based on LSTM layers. Also implement pretrained Bart-CNN model on dataset.
 
 
 The processed dataframe which is 1.1GB, you can find it my google drive:
